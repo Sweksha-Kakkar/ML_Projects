@@ -1,4 +1,4 @@
-## Loan Approval Prediction
+# Loan Approval Prediction
 In this project, I worked on a Loan Approval dataset to predict whether a loan will be approved or not.
 
 I first explored and preprocessed the dataset and then applied different Machine Learning classification algorithms to check which model gives better accuracy.
