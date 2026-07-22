@@ -1,4 +1,7 @@
 # ML_Projects
+
+## PROJECT_1
+
 #  1 Titanic Survival Prediction
 
 This is a Machine Learning project that predicts whether a passenger survived the Titanic disaster based on various features such as age, gender, passenger class, and fare.
